@@ -1,4 +1,4 @@
-# Hi there \U0001F44B, I'm Arjun Krishna
+# Hi There, I'm Arjun Krishna
 
 Welcome to my GitHub profile! I'm an AI engineer specialising in **agentic & generative AI**, **MLOps**, **LLMOps**, **AIOps**, **deep learning**, and traditional machine learning. I enjoy building end‑to‑end AI solutions that combine classical models, modern LLMs, reinforcement learning and optimisation algorithms to solve real‑world problems.
 
